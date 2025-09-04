@@ -65,7 +65,7 @@ To restrict access to trusted domains:
 
 1. Go to the bucket → Permissions → CORS configuration.
 2. Add:
-```json
+```xml
 <CORSConfiguration>
   <CORSRule>
     <AllowedOrigin>https://yourdomain.com</AllowedOrigin>
