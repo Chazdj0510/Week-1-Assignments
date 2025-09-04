@@ -49,6 +49,17 @@ This guide outlines the steps taken to upload an image to Amazon S3 and display 
 
 1. Create a simple HTML file to display the image
 
+```html
+<!DOCTYPE html>
+<html>
+  <head><title>Image Test</title></head>
+  <body>
+    <h1>My Cloud Image</h1>
+    <img src="https://chastidy-image-bucket.s3.us-east-2.amazonaws.com/myphoto.jpg" alt="Uploaded Image" />
+  </body>
+</html>
+```
+
 ---
 
 ## 🧪 Step 5: Test with Postman
