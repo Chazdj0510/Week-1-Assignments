@@ -50,8 +50,9 @@ cloud-image-upload/
 ├── docs/
 │   └── setup_instructions.md
 ├── screenshots/
-│       ├── 
-│       └── 
+│       ├── Bucket Creation.png
+│       ├── Postman_test.png
+│       └── index.html.png
 ```
 
 ---
